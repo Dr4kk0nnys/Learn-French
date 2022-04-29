@@ -346,3 +346,99 @@ Numéro/Lettre | Réponse
 13 | Pied
 14 | Cette
 15 | Sur
+
+##
+##
+##
+
+<img src="./images/Screen Shot 2022-04-29 at 15.12.53.png" />
+
+Numéro/Lettre | Réponse
+--------------|---------
+1 | b
+2 | c
+3 | d
+4 | d
+
+##
+##
+##
+
+<img src="./images/Screen Shot 2022-04-29 at 15.15.08.png" />
+
+Numéro/Lettre | Réponse
+--------------|---------
+a | un taxi
+b | un autobus
+
+##
+##
+##
+
+<img src="./images/Screen Shot 2022-04-29 at 15.17.27.png" />
+
+Numéro/Lettre | Réponse
+--------------|---------
+a | un métro
+b | une automobile
+
+##
+##
+##
+
+<img src="./images/Screen Shot 2022-04-29 at 15.39.20.png" />
+
+Numéro/Lettre | Réponse
+--------------|---------
+1 | We are in Paris
+2 | You have a reservation
+3 | The hotel is far from the bank
+4 | Marc and Marie don't have reservations
+5 | Do you have any change ?
+
+##
+##
+##
+
+<img src="./images/Screen Shot 2022-04-29 at 15.45.25.png" />
+
+Numéro/Lettre | Réponse
+--------------|---------
+1 | Marc and Marie understand French
+2 | Are you learning English ?
+3 | Jean doesn't understand French all that well
+4 | We take the subway
+5 | Are they taking a taxi ?
+
+##
+##
+##
+
+<img src="./images/Screen Shot 2022-04-29 at 15.57.22.png" />
+
+Numéro/Lettre | Réponse
+--------------|---------
+1 | Le livre du garçon
+2 | Le cahier de la fille
+3 | Les amis de l'étudiant
+4 | L'ami de l'étudiant
+5 | Je parle de l'étudiante
+6 | Le professeur parle du livre aux l'étudiants
+7 | J'ai des amis à Montréal
+8 | Je donne le livre au garçon
+9 | Nous téléphonons à l'hôtel
+
+##
+##
+##
+
+<img src="./images/Screen Shot 2022-04-29 at 16.12.38.png" />
+
+Numéro/Lettre | Réponse
+--------------|---------
+1 | Les Legros prennent l'autobus et le métro
+2 | Ils descedent deux arrêts plus loin
+3 | Ils prennent le métro
+4 | Ils arrivent au marché
+5 | Ils achètent beaucoup de choses
+
